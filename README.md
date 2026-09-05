@@ -1,4 +1,4 @@
-# Awesome E-Government [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome E-Government [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1010367824.svg)](https://doi.org/10.5281/zenodo.19673326)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -98,10 +98,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Civic Tech](https://github.com/awesomelistsio/awesome-civic-tech)** – Projects using tech to improve civic life and government.
-- **[Awesome Open Governance](https://github.com/awesomelistsio/awesome-open-governance)** – APIs, tools, and projects for transparent governance.
-- **[Awesome Open Data](https://github.com/awesomelistsio/awesome-open-data)** – High-quality open data resources and platforms.
-- **[Awesome Political Science](https://github.com/awesomelistsio/awesome-political-science)** – Academic and applied political science resources.
+- **[Awesome Civic Tech](https://github.com/brandonhimpfen/awesome-civic-tech)** – Projects using tech to improve civic life and government.
+- **[Awesome Open Governance](https://github.com/brandonhimpfen/awesome-open-governance)** – APIs, tools, and projects for transparent governance.
+- **[Awesome Open Data](https://github.com/brandonhimpfen/awesome-open-data)** – High-quality open data resources and platforms.
+- **[Awesome Political Science](https://github.com/brandonhimpfen/awesome-political-science)** – Academic and applied political science resources.
 
 ## Contribute
 
